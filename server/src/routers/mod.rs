@@ -1,3 +1,1 @@
-mod user_routes;
-
-pub use user_routes::user_router;
+pub mod user_routes;
